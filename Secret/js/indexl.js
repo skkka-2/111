@@ -17,7 +17,7 @@ var S = {
       m++;
       S.Shape.render();
       //console.log(m);
-      if (m == 1900) {
+      if (m == 700) {
         window.location.href = "BirthdayCake.html";
       }
     });
